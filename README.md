@@ -1,7 +1,7 @@
 # Project README
 
 ## Overview
-This project is a simple camera application built using C/C++ and various libraries. The application utilizes the WindowEngine1.0 library for window management, RLCamera for camera functionality, and ImageFilter for image processing.
+This project is a simple camera application built using C/C++ and various libraries. The application utilizes the WindowEngine library for window management, RLCamera for camera functionality, and ImageFilter for image processing.
 
 ## Features
 - Basic camera setup
@@ -14,7 +14,7 @@ This project is a simple camera application built using C/C++ and various librar
 - Make utility
 - Standard development tools
 - Libraries:
-  - WindowEngine1.0
+  - WindowEngine
   - RLCamera
   - ImageFilter
   - X11 for Linux
